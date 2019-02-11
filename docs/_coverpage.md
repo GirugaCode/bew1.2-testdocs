@@ -2,9 +2,9 @@
 
 ![logo](img/spongebob.png)
 
-# Spongebob Tweet Generator <small>3.5</small>
+# Spongebob Tweet Generator <small>1.0</small>
 
-> A magical documentation site generator.
+> Generate awesome and original Sponge
 
 - Simple and lightweight (~21kB gzipped)
 - No statically built html files
